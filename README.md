@@ -14,6 +14,8 @@ The project will be entirely evaluated with Automated Tests with Jenkins.
 <p align="center">
 <img height="300" src="https://www.jenkins.io/images/logo-title-opengraph.png" alt="look"/><br/>
 </p>
+<br/>
+
 ### Usage:
 - How to deploye with Docker:
 ```
@@ -26,6 +28,7 @@ The project will containerize and define the deployment of a simple web poll app
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/1200px-Docker_%28container_engine%29_logo.svg.png" alt="look"/><br/>
 </p>
+
 ### Usage:
 - How to deploye with Docker:
 ```
